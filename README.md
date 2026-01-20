@@ -50,6 +50,8 @@ The dashboard allows churn analysis across multiple business dimensions:
 8) Model Evaluation
 9) Random Forest Pipeline
 
+    Accuracy of 81% | 85% precision for non-churn | 66% precision for churn
+
 ---
 
 ## Key Insights
