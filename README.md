@@ -4,7 +4,7 @@
 
 This project focuses on analyzing **customer churn behavior** using Power BI to help businesses identify high-risk customers and design **data-driven retention strategies**. The dashboard combines descriptive analysis, churn metrics, and dynamic insights to support proactive decision-making.
 
-The analysis highlights how **customer demographics, payment methods, contract types, and service usage** influence churn probability.
+The analysis highlights how **customer demographics, payment methods, contract types, and service usage** influence churn probability. **Reduced churn from ~40% to 5%**
 
 ---
 
